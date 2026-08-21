@@ -1,14 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=720&height=80&lines=FRONTEND+DEVELOPER;REACT+%2B+TYPESCRIPT)](https://git.io/typing-svg)
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="...&color=F8FAFC&...">
-  <source media="(prefers-color-scheme: light)" srcset="...&color=0F172A&...">
-  <img alt="Frontend Developer" src="...&color=808080&...">
-</picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&duration=2800&pause=900&color=F8FAFC&center=true&vCenter=true&width=720&height=80&lines=FRONTEND+DEVELOPER;REACT+%2B+TYPESCRIPT;PIXEL+PERFECT+UI;CLEAN+CODE+MATTERS"> <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&duration=2800&pause=900&color=0F172A&center=true&vCenter=true&width=720&height=80&lines=FRONTEND+DEVELOPER;REACT+%2B+TYPESCRIPT;PIXEL+PERFECT+UI;CLEAN+CODE+MATTERS"> <img alt="Frontend Developer" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&duration=2800&pause=900&color=808080&center=true&vCenter=true&width=720&height=80&lines=FRONTEND+DEVELOPER;REACT+%2B+TYPESCRIPT;PIXEL+PERFECT+UI;CLEAN+CODE+MATTERS"> </picture> <br> <img src="https://img.shields.io/badge/STATUS-OPEN__TO__WORK-22d3ee?style=flat-square" /> <img src="https://img.shields.io/badge/BASED_IN-YOUR__CITY-64748b?style=flat-square" /> <img src="https://komarev.com/ghpvc/?username=Maascard&style=flat-square&color=22d3ee&label=VISITORS" /> </div> <br>
 <br>
 
 <div align="center">
