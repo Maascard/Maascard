@@ -1,6 +1,6 @@
 `
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=80&lines=FRONTEND+DEVELOPER;REACT+%2B+TYPESCRIPT;PIXEL+PERFECT+UI;CLEAN+CODE+MATTERS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=80&lines=FRONTEND+DEVELOPER;REACT+%2B+TYPESCRIPT)](https://git.io/typing-svg)
 
 </div>
 
