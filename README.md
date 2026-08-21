@@ -1,30 +1,11 @@
 `
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=80&lines=FRONTEND+DEVELOPER;REACT+%2B+TYPESCRIPT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=22&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=720&height=80&lines=FRONTEND+DEVELOPER;REACT+%2B+TYPESCRIPT)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
-```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-```
-
-## `01` ABOUT
-
-```js
-const developer = {
-  role:      "Frontend Developer",
-  code:      ["JavaScript", "TypeScript", "HTML", "CSS"],
-  tools:     ["React", "Next.js", "Vite", "Tailwind", "Figma"],
-  focus:     "accessible, fast and pixel-perfect interfaces",
-  learning:  "Next.js App Router / Testing",
-  contact:   "you@example.com"
-};
-
-
-
-```
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ```
 
