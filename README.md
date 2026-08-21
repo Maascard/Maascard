@@ -5,7 +5,14 @@
 </div>
 
 <br>
-
+const developer = {
+  role:      "Frontend Developer",
+  code:      ["JavaScript", "TypeScript", "HTML", "CSS"],
+  tools:     ["React", "Next.js", "Vite", "Tailwind", "Figma"],
+  focus:     "accessible, fast and pixel-perfect interfaces",
+  learning:  "Next.js App Router / Testing",
+  contact:   "you@example.com"
+};
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ```
 
